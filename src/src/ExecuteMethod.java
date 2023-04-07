@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.*;
 
-public class ExecuteMetod {
+public class ExecuteMethod {
 
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(10);
